@@ -1,0 +1,1001 @@
+ChildID,ParentID,ChildName,ChildAge,Needs
+0,0,Jennifer Curry,13,Other
+1,1,Eddie Smith,11,Group
+2,2,Billy Dickerson,13,Solo
+3,3,Ariana Moore,6,Group
+4,4,Jennifer Murphy,14,Other
+5,5,Rebecca Malone,8,Pick Up
+6,6,Samantha Graham,11,Group
+7,7,Brett Smith,5,Group
+8,8,Allison Burton,14,Other
+9,9,Destiny Romero,18,Pick Up
+10,10,Melissa Russell,13,Other
+11,11,Matthew Wilcox,10,Group
+12,12,Sean Long,10,Food
+13,13,Leah Peters,9,Pick Up
+14,14,Barbara Johnson,12,Pick Up
+15,15,Samuel Jones,9,Other
+16,16,Tasha Baker,11,Group
+17,17,Crystal Williams,13,Solo
+18,18,Don Fisher,10,Food
+19,19,Eric Walker,9,Solo
+20,20,Lee Clayton,12,Pick Up
+21,21,Daniel Allison,18,Pick Up
+22,22,Dennis Hart,17,Food
+23,23,Theresa Galvan,10,Food
+24,24,Samantha Ford,8,Solo
+25,25,Linda Weaver,9,Group
+26,26,Kelsey Ross,7,Pick Up
+27,27,Joe Ford,16,Pick Up
+28,28,Ricardo Collins,17,Food
+29,29,Robert Butler,16,Pick Up
+30,30,Jennifer Frost,9,Pick Up
+31,31,Deborah Patel,12,Other
+32,32,Erica Wallace,11,Solo
+33,33,Barbara Villanueva,9,Other
+34,34,Carolyn Robert,7,Solo
+35,35,Christina Wilson,14,Other
+36,36,Adam Raymond,5,Other
+37,37,Kenneth Bowen,7,Pick Up
+38,38,Ashley Townsend,8,Drop Off
+39,39,Ryan Jimenez,8,Solo
+40,40,Nathan Patterson,5,Group
+41,41,Andrew Pamela,14,Solo
+42,42,Nancy Jones,10,Drop Off
+43,43,Nicholas Young,12,Solo
+44,44,Kevin Perez,18,Group
+45,45,Michael Robbins,17,Drop Off
+46,46,Daniel Walker,13,Solo
+47,47,William Nielsen,7,Pick Up
+48,48,Deborah Green,5,Group
+49,49,Stacey Hamilton,11,Pick Up
+50,50,Valerie Smith,15,Group
+51,51,Andrew Brown,12,Group
+52,52,Lauren Ellis,12,Food
+53,53,Brian Williams,6,Group
+54,54,Julie Wilson,9,Solo
+55,55,Jessica Armstrong,17,Other
+56,56,Jennifer Morales,10,Solo
+57,57,Thomas Mcdonald,7,Other
+58,58,Steven Guerrero,6,Group
+59,59,Jesse Bennett,15,Group
+60,60,Melissa Smith,12,Food
+61,61,Eric Booker,10,Food
+62,62,Brianna Evans,12,Other
+63,63,John Powell,13,Group
+64,64,Matthew Mays,9,Other
+65,65,Andrea Hicks,12,Drop Off
+66,66,Jennifer Hobbs,15,Food
+67,67,Mary Hall,12,Food
+68,68,Dennis Walker,18,Food
+69,69,Anthony Hendricks,7,Group
+70,70,William Martinez,6,Pick Up
+71,71,Debbie English,11,Group
+72,72,Kimberly Parker,6,Pick Up
+73,73,Fernando Sanchez,17,Solo
+74,74,Clinton Todd,10,Drop Off
+75,75,Mary Young,11,Other
+76,76,Dalton Ramsey,5,Other
+77,77,Wanda Stone,14,Group
+78,78,Alexander Calderon,17,Other
+79,79,Jackie Bernard,10,Drop Off
+80,80,Eduardo Mcdonald,17,Other
+81,81,Lisa French,15,Group
+82,82,Brent Glover,11,Drop Off
+83,83,Stephanie Murphy,8,Group
+84,84,Joe Davis,8,Solo
+85,85,Toni Beck,8,Other
+86,86,Kyle Stone,9,Food
+87,87,Donald Li,16,Group
+88,88,Kathryn Frazier,16,Pick Up
+89,89,Lisa Fuentes,14,Other
+90,90,Michael Jacobson,7,Drop Off
+91,91,Sonya Lucero,16,Group
+92,92,Calvin Brown,10,Other
+93,93,John Allen,18,Drop Off
+94,94,Richard Myers,8,Pick Up
+95,95,Rebekah Tanner,17,Solo
+96,96,Luis Frazier,9,Solo
+97,97,Michael Miller,7,Other
+98,98,Holly Cooper,12,Group
+99,99,James Hunt,5,Pick Up
+100,100,Chris Miller,10,Group
+101,101,John Jackson,8,Group
+102,102,Nicole Roberts,10,Drop Off
+103,103,Sherri Roberts,6,Other
+104,104,Willie Mathews,7,Food
+105,105,Raymond Fernandez,13,Solo
+106,106,Tiffany Eaton,7,Drop Off
+107,107,Daniel Turner,10,Group
+108,108,Melanie Irwin,12,Solo
+109,109,Jennifer Thomas,7,Other
+110,110,Michael Marquez,5,Drop Off
+111,111,Nicole Henson,8,Other
+112,112,Kara Jones,15,Pick Up
+113,113,Denise Kelly,15,Solo
+114,114,Michelle Long,9,Drop Off
+115,115,Mark Wiggins,17,Drop Off
+116,116,Jason Owen,16,Drop Off
+117,117,Jamie Stanley,7,Food
+118,118,Kelly Lucas,7,Food
+119,119,Mary Mills,11,Drop Off
+120,120,Danielle Monroe,10,Other
+121,121,Jesse Roberts,6,Drop Off
+122,122,Courtney Monroe,14,Group
+123,123,Kristina Davis,16,Other
+124,124,Brian Dalton,6,Other
+125,125,Raymond Patton,17,Solo
+126,126,Brent Davenport,11,Other
+127,127,Jason Shaw,10,Drop Off
+128,128,Kimberly Coleman,17,Food
+129,129,Bryan Daugherty,11,Pick Up
+130,130,Samantha Jones,10,Other
+131,131,Kendra Hill,11,Pick Up
+132,132,Jennifer Calderon,8,Pick Up
+133,133,Kristin Burke,18,Drop Off
+134,134,Matthew Williamson,17,Group
+135,135,Brian Perez,14,Solo
+136,136,Laurie Gomez,10,Pick Up
+137,137,Taylor Reed,12,Food
+138,138,Adam Kelley,5,Solo
+139,139,Charles Dodson,10,Other
+140,140,Bradley Washington,18,Food
+141,141,Elizabeth Wolfe,5,Solo
+142,142,William Bell,16,Group
+143,143,Kimberly Pace,10,Food
+144,144,Raymond Williams,18,Solo
+145,145,Jason Kirby,10,Drop Off
+146,146,Thomas Martinez,6,Drop Off
+147,147,Jose Nelson,11,Pick Up
+148,148,Rhonda Barnes,8,Solo
+149,149,Paul Morgan,13,Food
+150,150,Shelby Castillo,5,Solo
+151,151,Jonathan Mason,16,Solo
+152,152,Nathaniel Allison,11,Group
+153,153,Bill Castillo,12,Pick Up
+154,154,Mark Parker,7,Food
+155,155,Maria West,6,Other
+156,156,Austin Thompson,17,Solo
+157,157,Christopher Walker,12,Other
+158,158,Suzanne Ortiz,10,Other
+159,159,James Jimenez,9,Drop Off
+160,160,Jason Castaneda,11,Food
+161,161,Lauren Wood,11,Food
+162,162,Howard Martin,14,Solo
+163,163,Raymond King,12,Other
+164,164,Erica Powell,14,Drop Off
+165,165,Olivia Tapia,5,Food
+166,166,Michael Ayers,10,Pick Up
+167,167,Caitlyn Miller,5,Other
+168,168,Teresa Smith,8,Other
+169,169,Heidi Bullock,10,Drop Off
+170,170,Lisa Garcia,17,Pick Up
+171,171,Lisa Michael,5,Drop Off
+172,172,Aaron Fernandez,13,Other
+173,173,Cathy Jones,7,Other
+174,174,Sandra Harris,10,Pick Up
+175,175,Shane Ochoa,17,Group
+176,176,Michelle Preston,7,Drop Off
+177,177,Rebecca Jackson,15,Pick Up
+178,178,Tony Hayes,5,Food
+179,179,Robert Merritt,8,Group
+180,180,Kendra Manning,16,Group
+181,181,Sean Bates,16,Food
+182,182,Michael Doyle,8,Food
+183,183,Kirk Sanders,11,Other
+184,184,Tiffany Saunders,15,Drop Off
+185,185,Tina Williams,8,Group
+186,186,Matthew Rose,13,Pick Up
+187,187,Justin Becker,9,Solo
+188,188,Austin Reynolds,13,Other
+189,189,Edwin Whitney,11,Group
+190,190,Megan Fisher,18,Other
+191,191,Amanda Schroeder,13,Food
+192,192,Elaine Simpson,17,Pick Up
+193,193,Keith Floyd,13,Solo
+194,194,Lisa Johnson,6,Food
+195,195,Timothy Mejia,9,Food
+196,196,Jason Smith,5,Food
+197,197,Andrew Thomas,5,Group
+198,198,Felicia Mueller,15,Pick Up
+199,199,Victoria Day,11,Pick Up
+200,200,Joseph Cunningham,18,Solo
+201,201,Lisa Smith,12,Solo
+202,202,Adam Lynch,5,Group
+203,203,Joann Whitney,16,Drop Off
+204,204,Joshua Thornton,13,Other
+205,205,Jesus Mitchell,13,Food
+206,206,Bradley Wade,6,Food
+207,207,Robert Valencia,15,Other
+208,208,Terrence Smith,7,Pick Up
+209,209,Rick Long,18,Group
+210,210,Courtney Rodriguez,9,Group
+211,211,Kathleen Crawford,5,Food
+212,212,Kylie Cook,15,Other
+213,213,Daniel Huang,11,Pick Up
+214,214,Miranda Curry,11,Solo
+215,215,Shelby Roberts,8,Other
+216,216,Michael Greer,16,Solo
+217,217,Rebecca Robertson,8,Drop Off
+218,218,Robert Smith,18,Food
+219,219,Edward Thomas,16,Group
+220,220,Karen Myers,12,Pick Up
+221,221,Amy Adkins,12,Pick Up
+222,222,Catherine Wright,6,Solo
+223,223,Richard Haynes,11,Other
+224,224,Jeffrey Jordan,7,Food
+225,225,Scott Nunez,8,Other
+226,226,William Martin,12,Drop Off
+227,227,Charles Garrison,6,Other
+228,228,Juan Owens,14,Pick Up
+229,229,Anna Bradshaw,17,Drop Off
+230,230,Stephen Cochran,6,Group
+231,231,Amanda Smith,13,Other
+232,232,Angelica Bailey,16,Pick Up
+233,233,Margaret Patricia,10,Drop Off
+234,234,Amanda Tucker,15,Food
+235,235,Andrew Molina,12,Other
+236,236,Eric Gonzalez,8,Drop Off
+237,237,Kristen Jimenez,10,Drop Off
+238,238,Kenneth Wade,11,Group
+239,239,Johnny Woods,14,Pick Up
+240,240,Nicholas Hernandez,14,Food
+241,241,Seth Ross,11,Group
+242,242,Jorge Hart,14,Solo
+243,243,Christopher Wiley,8,Group
+244,244,Ronald Blevins,12,Food
+245,245,Jeremy Norman,11,Group
+246,246,John Martin,18,Pick Up
+247,247,Laura Castaneda,16,Food
+248,248,Aaron William,14,Other
+249,249,Erik Kramer,13,Food
+250,250,Philip Sanchez,12,Solo
+251,251,Rachel Dickerson,13,Group
+252,252,Grace Murray,7,Other
+253,253,Christine Dickerson,18,Food
+254,254,Amber Spencer,18,Group
+255,255,Shawn Ferguson,15,Other
+256,256,Nicholas Martinez,8,Pick Up
+257,257,Shane Hunter,14,Group
+258,258,Joseph Bryant,10,Food
+259,259,Nicholas Petersen,17,Drop Off
+260,260,Luis Freeman,14,Drop Off
+261,261,Wendy Wagner,17,Group
+262,262,Jennifer Rogers,17,Food
+263,263,Sherri Hopkins,15,Other
+264,264,Dominique Jordan,18,Pick Up
+265,265,David Howell,17,Solo
+266,266,Kara Vega,18,Solo
+267,267,Nathaniel Santiago,13,Drop Off
+268,268,Rebecca Smith,12,Solo
+269,269,Joseph Gutierrez,10,Group
+270,270,Karen Henry,14,Food
+271,271,Michael Butler,12,Drop Off
+272,272,Joseph Washington,11,Drop Off
+273,273,Margaret Parker,5,Pick Up
+274,274,Steven Green,15,Pick Up
+275,275,Marie Rodriguez,16,Food
+276,276,Erica Howard,17,Pick Up
+277,277,Jonathan Bean,15,Pick Up
+278,278,Nathan Austin,18,Pick Up
+279,279,Robert Garcia,10,Solo
+280,280,Eric Wagner,11,Pick Up
+281,281,Stephanie Mitchell,10,Group
+282,282,Molly Christian,15,Food
+283,283,Russell Taylor,8,Group
+284,284,Courtney Roberts,14,Drop Off
+285,285,Amanda Chapman,12,Other
+286,286,Larry Bailey,13,Pick Up
+287,287,Brooke Santiago,16,Other
+288,288,Michael Cherry,16,Drop Off
+289,289,Chad Gregory,12,Food
+290,290,Anna Hensley,6,Solo
+291,291,Elizabeth Kerr,12,Food
+292,292,Natalie Garrett,13,Solo
+293,293,Brandi Hicks,18,Group
+294,294,Rachel Miller,14,Pick Up
+295,295,Jamie Johnson,15,Solo
+296,296,Brittany Greer,16,Group
+297,297,Kim Castillo,16,Food
+298,298,Stephanie Clements,13,Pick Up
+299,299,Sharon George,13,Solo
+300,300,Gregory Allen,18,Drop Off
+301,301,Mary Clark,15,Solo
+302,302,Shannon Bishop,11,Group
+303,303,Gary Brooks,18,Food
+304,304,Jasmine Jones,16,Solo
+305,305,Brandi Lopez,12,Solo
+306,306,Douglas Smith,13,Drop Off
+307,307,Alyssa Jennings,13,Solo
+308,308,Matthew Moody,16,Other
+309,309,Christopher Hudson,16,Food
+310,310,Jessica Williams,10,Drop Off
+311,311,Kelly Black,16,Pick Up
+312,312,Edward Riley,10,Other
+313,313,Jessica Simon,15,Solo
+314,314,Alexandra Krause,17,Group
+315,315,Anthony Day,17,Pick Up
+316,316,Ashley Maldonado,18,Other
+317,317,Brandi Alexander,13,Food
+318,318,Pamela Anderson,9,Other
+319,319,Laura Cruz,17,Food
+320,320,Toni Frazier,9,Food
+321,321,Elizabeth Jackson,14,Drop Off
+322,322,Jasmine Jackson,8,Drop Off
+323,323,Melissa Hardin,6,Drop Off
+324,324,Lisa Ward,6,Other
+325,325,Victoria Anderson,11,Food
+326,326,Kimberly Velazquez,10,Other
+327,327,Ronnie Pope,6,Drop Off
+328,328,Matthew Hayes,10,Solo
+329,329,Allen Smith,5,Group
+330,330,Edwin Serrano,13,Pick Up
+331,331,Joseph Burns,11,Food
+332,332,Mark Briggs,14,Other
+333,333,Jerry Coleman,15,Food
+334,334,Daniel Campbell,10,Drop Off
+335,335,Patrick Pollard,7,Group
+336,336,Sarah Wilson,10,Food
+337,337,Cheryl Joseph,11,Food
+338,338,Sarah Calderon,16,Food
+339,339,Stephanie Russell,17,Solo
+340,340,Zachary Osborn,11,Food
+341,341,Scott Steele,8,Solo
+342,342,Amanda Hartman,8,Group
+343,343,Dawn Goodman,10,Pick Up
+344,344,Lisa Kennedy,15,Drop Off
+345,345,Samantha Brandt,12,Solo
+346,346,Phillip Martinez,18,Solo
+347,347,Marcus Aguilar,5,Drop Off
+348,348,Donald Newman,16,Pick Up
+349,349,Adrian Perez,8,Solo
+350,350,Ryan Barrett,7,Other
+351,351,Michael Gross,17,Drop Off
+352,352,Heather Fleming,11,Group
+353,353,Julia May,5,Pick Up
+354,354,Fernando Jones,11,Food
+355,355,Ashley Werner,10,Drop Off
+356,356,Marissa King,18,Group
+357,357,Marcus Romero,13,Drop Off
+358,358,Louis Velasquez,17,Pick Up
+359,359,Lucas Burgess,16,Solo
+360,360,Christina King,18,Food
+361,361,Melanie Dunlap,14,Pick Up
+362,362,Devon Solis,16,Solo
+363,363,Christina Rodriguez,9,Other
+364,364,Kimberly Harrison,15,Food
+365,365,Martin Richards,6,Group
+366,366,April Tran,17,Group
+367,367,Cindy Rodriguez,16,Drop Off
+368,368,Ashley Edwards,7,Drop Off
+369,369,Amy Carey,17,Group
+370,370,Tonya Ray,17,Solo
+371,371,Adam Smith,18,Pick Up
+372,372,Timothy Ware,14,Group
+373,373,Kathleen Olson,6,Other
+374,374,Brianna Bolton,14,Other
+375,375,Catherine Williams,13,Solo
+376,376,Jenna Reeves,18,Drop Off
+377,377,Anna Williams,18,Other
+378,378,Zachary Lawson,10,Pick Up
+379,379,Erin Sanchez,5,Drop Off
+380,380,James Baker,13,Drop Off
+381,381,Melanie Smith,7,Other
+382,382,Megan Rasmussen,18,Food
+383,383,Lisa Alvarez,5,Group
+384,384,Patrick Chambers,9,Food
+385,385,David Johnston,9,Pick Up
+386,386,Kristen Ruiz,9,Pick Up
+387,387,Michael Mullen,14,Drop Off
+388,388,Douglas Moody,5,Group
+389,389,Patricia Greene,13,Food
+390,390,Paige Pruitt,9,Solo
+391,391,Allison Vargas,17,Group
+392,392,John Davis,9,Drop Off
+393,393,Kim Norris,5,Pick Up
+394,394,Dawn Gutierrez,10,Pick Up
+395,395,Lauren Hamilton,5,Group
+396,396,Paul Turner,10,Solo
+397,397,Michael Bell,14,Other
+398,398,Frank Atkins,7,Other
+399,399,Kyle Bowers,15,Group
+400,400,Tammie Howell,17,Group
+401,401,Randy Vega,6,Group
+402,402,Michael Hoffman,16,Drop Off
+403,403,Mary Smith,17,Pick Up
+404,404,Austin Kennedy,10,Food
+405,405,Christian Griffin,5,Pick Up
+406,406,Daniel Reed,11,Pick Up
+407,407,Gary Martinez,17,Other
+408,408,Jonathan Rosales,18,Other
+409,409,Lee Bailey,8,Solo
+410,410,Kelly Kidd,8,Pick Up
+411,411,Tina Evans,7,Drop Off
+412,412,Theresa Hernandez,18,Other
+413,413,Victoria Wolf,15,Solo
+414,414,Bradley Robinson,16,Drop Off
+415,415,Rachel Carr,15,Group
+416,416,Amanda Price,12,Drop Off
+417,417,Ryan Bell,16,Group
+418,418,Dawn Garcia,7,Other
+419,419,Nicholas Pearson,11,Solo
+420,420,Michelle West,13,Group
+421,421,Hannah Mcdonald,9,Solo
+422,422,Thomas Morgan,10,Food
+423,423,Dana Burke,13,Solo
+424,424,Nathaniel Dalton,8,Other
+425,425,Matthew Norris,6,Pick Up
+426,426,Kimberly Davis,13,Other
+427,427,Heather Mitchell,6,Food
+428,428,Andrea Martinez,18,Food
+429,429,Thomas Norris,15,Solo
+430,430,Willie Hartman,17,Drop Off
+431,431,Phillip Rodriguez,16,Other
+432,432,Charles Wilson,6,Other
+433,433,Wendy Robertson,7,Solo
+434,434,Michael Thomas,11,Other
+435,435,Peter Wade,12,Pick Up
+436,436,Jon Mercer,14,Group
+437,437,Jennifer Davis,8,Group
+438,438,Heather Carter,16,Drop Off
+439,439,Robert Richards,10,Group
+440,440,Thomas Webb,13,Pick Up
+441,441,Marcus Davis,8,Group
+442,442,Brenda Miller,10,Drop Off
+443,443,Christine Brock,6,Pick Up
+444,444,Carrie Smith,15,Food
+445,445,Lori Solis,5,Drop Off
+446,446,William Stewart,17,Drop Off
+447,447,Sandra Smith,5,Drop Off
+448,448,Robert Coleman,15,Other
+449,449,Luke Morgan,11,Drop Off
+450,450,Christina Mendoza,14,Solo
+451,451,Eric Franco,5,Pick Up
+452,452,Sandra Hughes,8,Other
+453,453,Joshua Ramirez,11,Pick Up
+454,454,Angela Lyons,15,Solo
+455,455,Susan Johnson,11,Solo
+456,456,Alexander Hunter,13,Solo
+457,457,Kenneth Hawkins,13,Food
+458,458,Erica Young,8,Other
+459,459,Lisa Beck,5,Other
+460,460,Derrick Thomas,14,Drop Off
+461,461,Jason Stone,6,Pick Up
+462,462,Jessica Gaines,14,Drop Off
+463,463,Erik Romero,12,Group
+464,464,John Torres,18,Drop Off
+465,465,Francis Riley,13,Drop Off
+466,466,Joseph Moore,11,Pick Up
+467,467,Bryan Jones,10,Group
+468,468,Christina Smith,11,Other
+469,469,Calvin Calhoun,15,Pick Up
+470,470,Elizabeth Moody,18,Food
+471,471,Kent Guzman,9,Drop Off
+472,472,Rhonda Wood,7,Drop Off
+473,473,Breanna Brewer,6,Pick Up
+474,474,Jose Smith,13,Group
+475,475,Susan Kerr,16,Solo
+476,476,Shannon Williams,8,Group
+477,477,Joe Jones,10,Food
+478,478,Gabriel Robinson,15,Solo
+479,479,Collin Dixon,11,Drop Off
+480,480,Tracy Hernandez,16,Other
+481,481,Donna Hancock,15,Group
+482,482,Kimberly Fisher,15,Solo
+483,483,Martin Mahoney,17,Other
+484,484,Sarah Wise,14,Pick Up
+485,485,Julie Hill,5,Pick Up
+486,486,Lisa House,8,Pick Up
+487,487,David Davis,11,Pick Up
+488,488,Logan Ross,5,Pick Up
+489,489,Michael Hoover,9,Other
+490,490,Gregory Roberts,8,Pick Up
+491,491,Nicole Munoz,15,Other
+492,492,Ashley White,17,Pick Up
+493,493,Samuel Miller,7,Pick Up
+494,494,Alexander Greene,10,Group
+495,495,Ryan Robertson,7,Drop Off
+496,496,Mary Bailey,15,Drop Off
+497,497,Ryan Acosta,13,Solo
+498,498,Theresa Snyder,8,Drop Off
+499,499,Ashley Peters,16,Other
+500,500,Amanda Perry,8,Group
+501,501,Joshua Larsen,15,Solo
+502,502,William Lyons,16,Food
+503,503,William Lozano,17,Drop Off
+504,504,Sarah Lee,14,Solo
+505,505,Lucas Hodge,17,Drop Off
+506,506,James Lopez,15,Food
+507,507,Sharon Torres,9,Solo
+508,508,Ryan Turner,9,Group
+509,509,Phillip Parks,16,Food
+510,510,Todd Davis,5,Solo
+511,511,Stephanie Lee,12,Pick Up
+512,512,Sharon Carney,17,Pick Up
+513,513,Betty Owens,9,Solo
+514,514,Edward Blake,5,Pick Up
+515,515,Bobby Phillips,13,Group
+516,516,Amanda King,5,Food
+517,517,Kevin Figueroa,17,Drop Off
+518,518,Karen Delgado,7,Drop Off
+519,519,Ashley Kyle,13,Food
+520,520,Tammy Miles,5,Pick Up
+521,521,Michael Walter,8,Group
+522,522,Suzanne Jones,9,Other
+523,523,Joshua Deborah,14,Food
+524,524,David Smith,17,Pick Up
+525,525,Justin Guerrero,6,Other
+526,526,Victoria Rosales,6,Other
+527,527,Aaron Cole,7,Other
+528,528,Terri Brooks,9,Group
+529,529,Jonathon Mcbride,17,Solo
+530,530,John Wilson,9,Other
+531,531,Kim Bolton,15,Food
+532,532,Gabriel Nolan,9,Solo
+533,533,Kara Howell,15,Pick Up
+534,534,Margaret Martin,12,Group
+535,535,Kelly Ponce,15,Pick Up
+536,536,Mark Arnold,8,Pick Up
+537,537,Brian Smith,14,Group
+538,538,Diane Carroll,11,Other
+539,539,James Johnson,12,Pick Up
+540,540,Elizabeth Jones,14,Other
+541,541,Brian Sweeney,7,Group
+542,542,Nathan Hamilton,18,Food
+543,543,Jasmine Deleon,10,Pick Up
+544,544,Jason Roberts,12,Drop Off
+545,545,Kristin Peterson,12,Drop Off
+546,546,Catherine Harvey,10,Pick Up
+547,547,Jonathan Mills,9,Solo
+548,548,Derrick Moyer,7,Solo
+549,549,Adrian Lyons,6,Drop Off
+550,550,Madeline Wood,15,Pick Up
+551,551,Mike Roy,10,Group
+552,552,Chase Riggs,17,Drop Off
+553,553,Kristin Jones,8,Group
+554,554,Barbara Patterson,17,Other
+555,555,Jennifer Rice,16,Group
+556,556,Peter Gray,15,Group
+557,557,Catherine Downs,11,Other
+558,558,Donna Baker,11,Group
+559,559,Elizabeth Tucker,8,Other
+560,560,Erin Young,11,Food
+561,561,Kimberly Walton,5,Food
+562,562,James George,16,Solo
+563,563,Thomas Moody,11,Drop Off
+564,564,Lawrence Ruiz,7,Other
+565,565,John Hall,9,Solo
+566,566,Deanna Stuart,13,Other
+567,567,Benjamin Garrett,9,Food
+568,568,Jennifer Johnson,7,Group
+569,569,Selena Morris,16,Food
+570,570,Travis Johnson,7,Group
+571,571,Dennis Blankenship,13,Other
+572,572,Regina Smith,16,Pick Up
+573,573,Joseph Jordan,13,Drop Off
+574,574,Ian Gillespie,5,Food
+575,575,Carmen Jacobs,17,Drop Off
+576,576,Anthony Myers,8,Drop Off
+577,577,Sabrina Christian,13,Group
+578,578,Joshua Porter,6,Group
+579,579,Jesse Mitchell,17,Food
+580,580,Timothy Alexander,15,Solo
+581,581,Hector Carpenter,5,Other
+582,582,Dylan Richardson,15,Drop Off
+583,583,Chad Peters,16,Other
+584,584,Melissa Callahan,17,Drop Off
+585,585,Amber Garcia,14,Solo
+586,586,Jocelyn Pierce,8,Food
+587,587,Janet Cherry,12,Solo
+588,588,Kimberly Fisher,5,Food
+589,589,Cynthia Robinson,15,Drop Off
+590,590,Patrick Reed,12,Group
+591,591,Glenn Page,16,Other
+592,592,Roberta Smith,11,Drop Off
+593,593,Kimberly Hicks,16,Pick Up
+594,594,Frank Burke,12,Group
+595,595,Martha Tran,6,Food
+596,596,Russell Leach,10,Solo
+597,597,Lori Luna,16,Pick Up
+598,598,Joshua Maynard,14,Drop Off
+599,599,Sharon Meza,17,Pick Up
+600,600,James Johnson,11,Other
+601,601,Teresa Greene,9,Food
+602,602,Denise Wilson,6,Food
+603,603,Darren Pacheco,10,Food
+604,604,Valerie Walter,13,Pick Up
+605,605,Catherine Johnston,9,Solo
+606,606,Luke Weber,10,Group
+607,607,Barry Campbell,10,Food
+608,608,Amanda Williams,16,Solo
+609,609,John Johnson,15,Pick Up
+610,610,Nathan Jordan,9,Drop Off
+611,611,Judith Gentry,8,Food
+612,612,Sharon Hernandez,9,Drop Off
+613,613,Robert Valdez,8,Pick Up
+614,614,Garrett Sanchez,9,Other
+615,615,Rachel Franklin,15,Solo
+616,616,Monica Samantha,5,Food
+617,617,David Hansen,11,Drop Off
+618,618,Derrick Rose,6,Food
+619,619,Ruth Walker,8,Solo
+620,620,Megan Miller,18,Pick Up
+621,621,Eric Alvarez,8,Drop Off
+622,622,Jesse Hudson,16,Group
+623,623,Rebecca Wright,11,Pick Up
+624,624,Martin Thompson,14,Food
+625,625,Cheryl Ferguson,17,Group
+626,626,Jimmy Smith,11,Other
+627,627,Travis Silva,17,Other
+628,628,Karen Kaufman,11,Food
+629,629,Jennifer Shaw,9,Group
+630,630,Jennifer Spence,18,Food
+631,631,Ariana Robinson,7,Food
+632,632,William Richardson,5,Solo
+633,633,Stephanie French,16,Solo
+634,634,Tara Richmond,8,Group
+635,635,Jeffrey Hernandez,12,Food
+636,636,Elizabeth Williams,18,Solo
+637,637,Daniel Durham,7,Food
+638,638,William Haas,15,Drop Off
+639,639,Timothy Bridges,6,Solo
+640,640,Nicole Kerr,12,Pick Up
+641,641,Alicia Dixon,10,Solo
+642,642,Stephanie Gomez,17,Other
+643,643,Jose King,10,Solo
+644,644,Stephen White,11,Drop Off
+645,645,Rachel Rowe,16,Solo
+646,646,Teresa Porter,18,Group
+647,647,Andrea Castaneda,13,Other
+648,648,Devin Brown,5,Solo
+649,649,Katherine Green,11,Solo
+650,650,Scott Johnson,9,Solo
+651,651,Sean Matthews,8,Pick Up
+652,652,Amanda Rose,10,Pick Up
+653,653,Joshua Bennett,12,Other
+654,654,Christian Gill,18,Drop Off
+655,655,Timothy Stephens,6,Group
+656,656,Jo Wells,18,Drop Off
+657,657,Joseph Odonnell,9,Food
+658,658,Amanda Ramos,12,Food
+659,659,William Snow,10,Other
+660,660,Joseph Arthur,12,Pick Up
+661,661,Rodney Mejia,6,Other
+662,662,Eduardo Wilkins,16,Group
+663,663,Shelby Murray,10,Other
+664,664,Jack Rivera,6,Pick Up
+665,665,Ryan Boone,9,Other
+666,666,Stephen Flores,14,Pick Up
+667,667,Jennifer Dixon,11,Other
+668,668,Sharon Duncan,12,Drop Off
+669,669,Evan Meadows,13,Group
+670,670,Kyle Wright,5,Food
+671,671,Lisa Mcfarland,10,Drop Off
+672,672,Zachary Snow,8,Other
+673,673,Gina Gonzales,10,Pick Up
+674,674,Patricia Bishop,14,Drop Off
+675,675,Emily Parker,16,Drop Off
+676,676,Adam Maldonado,11,Other
+677,677,Pamela Jimenez,10,Food
+678,678,Kimberly Carey,9,Other
+679,679,Paul Ross,5,Pick Up
+680,680,Austin Gross,6,Group
+681,681,Teresa Rodriguez,12,Drop Off
+682,682,Bradley Ellis,13,Other
+683,683,Cameron Coleman,10,Food
+684,684,Charles Rodriguez,17,Pick Up
+685,685,Andrea Vaughn,12,Drop Off
+686,686,Ricardo Ward,7,Food
+687,687,Mathew Hamilton,16,Drop Off
+688,688,Candice Robinson,10,Drop Off
+689,689,Julia Marks,17,Solo
+690,690,Luke Olsen,14,Pick Up
+691,691,Tammy Davis,16,Solo
+692,692,William Burton,15,Other
+693,693,Kristina Flores,14,Pick Up
+694,694,Benjamin Houston,17,Other
+695,695,Andre Pierce,16,Group
+696,696,David White,15,Other
+697,697,Morgan Preston,8,Solo
+698,698,Rachel Hernandez,18,Food
+699,699,Michael Holloway,7,Group
+700,700,Amanda Owen,11,Drop Off
+701,701,Lauren Roberts,10,Other
+702,702,Leslie Floyd,11,Group
+703,703,Paul Porter,7,Group
+704,704,Dennis Burke,13,Drop Off
+705,705,Jennifer Becker,8,Pick Up
+706,706,Gregory Bentley,16,Pick Up
+707,707,Martin Robinson,7,Pick Up
+708,708,Andrew Huber,18,Other
+709,709,John Rodriguez,11,Drop Off
+710,710,Gary Woods,5,Group
+711,711,Maureen Davis,5,Solo
+712,712,Nicholas Torres,12,Food
+713,713,Douglas Stewart,14,Other
+714,714,Carlos Dean,7,Group
+715,715,Ronald Jackson,16,Other
+716,716,Amy Mata,7,Pick Up
+717,717,Sara Olson,17,Other
+718,718,Jennifer Clark,10,Food
+719,719,Susan Sanchez,16,Food
+720,720,Stacy Nguyen,17,Pick Up
+721,721,Tammy Davis,14,Group
+722,722,Dwayne Garza,7,Drop Off
+723,723,Ebony Perkins,12,Drop Off
+724,724,Timothy Castillo,10,Food
+725,725,Kellie Jones,14,Food
+726,726,Casey Stephens,11,Solo
+727,727,Kaitlin Warner,5,Pick Up
+728,728,Craig Lucas,9,Group
+729,729,Lisa Lane,18,Other
+730,730,Katrina Carrillo,9,Group
+731,731,Mary King,5,Pick Up
+732,732,Audrey Richardson,15,Pick Up
+733,733,Cody Jonathan,15,Other
+734,734,Brianna Christensen,6,Group
+735,735,Sarah Henderson,11,Group
+736,736,William Clark,13,Solo
+737,737,Connie Brooks,15,Food
+738,738,Kaitlyn Murphy,15,Other
+739,739,Amanda Williams,6,Other
+740,740,David Rodriguez,12,Other
+741,741,Jerry Brewer,9,Food
+742,742,Michael Martin,12,Solo
+743,743,Christopher Sanders,6,Other
+744,744,Paul Adkins,11,Pick Up
+745,745,Michael Allen,14,Drop Off
+746,746,Steven Owens,8,Other
+747,747,Pamela Smith,18,Other
+748,748,Jennifer Smith,6,Solo
+749,749,William Chapman,10,Pick Up
+750,750,Debra Chavez,18,Pick Up
+751,751,Paul Clark,13,Pick Up
+752,752,Andrea Walker,15,Solo
+753,753,Dana Miller,12,Food
+754,754,Kimberly Winters,10,Pick Up
+755,755,Logan Sanchez,8,Other
+756,756,Jennifer Gray,17,Food
+757,757,Samantha Fuller,13,Solo
+758,758,Samuel Stevens,11,Pick Up
+759,759,Jonathan Lopez,5,Other
+760,760,Shannon Cabrera,15,Drop Off
+761,761,Melissa Yoder,8,Group
+762,762,Robert Johnston,9,Pick Up
+763,763,Bryan Salas,5,Group
+764,764,Erin Ray,9,Other
+765,765,Diana Knight,15,Group
+766,766,Deborah Weaver,6,Food
+767,767,Nicole Byrd,14,Other
+768,768,Rhonda Wilson,7,Food
+769,769,Melissa Washington,7,Pick Up
+770,770,Sabrina Fernandez,15,Solo
+771,771,Timothy Lozano,5,Other
+772,772,Steven Vazquez,8,Solo
+773,773,Daniel Mullen,18,Drop Off
+774,774,Scott Davis,8,Group
+775,775,David Allen,8,Drop Off
+776,776,Glenn Aguilar,6,Solo
+777,777,Eric Ellison,12,Pick Up
+778,778,Kristin West,8,Food
+779,779,James Diaz,8,Food
+780,780,Karen Nicholson,14,Pick Up
+781,781,Marcus Hess,7,Pick Up
+782,782,Erika Massey,6,Food
+783,783,Jose Stewart,7,Pick Up
+784,784,Anthony Holland,17,Pick Up
+785,785,Joshua Harrison,12,Drop Off
+786,786,Shelly Oliver,17,Pick Up
+787,787,Logan Mata,8,Pick Up
+788,788,Christopher Hernandez,17,Solo
+789,789,Kelsey Price,17,Pick Up
+790,790,Sarah Campbell,18,Food
+791,791,Danielle Figueroa,7,Pick Up
+792,792,Jennifer Hernandez,15,Food
+793,793,Caleb Jacobson,10,Group
+794,794,Eric Cochran,16,Solo
+795,795,Frank Bender,12,Solo
+796,796,Michael Whitaker,14,Other
+797,797,Jeremiah Jones,10,Solo
+798,798,Duane Johnson,15,Other
+799,799,Tara Meyer,16,Group
+800,800,Ashley Fields,9,Drop Off
+801,801,April Mosley,7,Solo
+802,802,Kristi Lee,14,Food
+803,803,Ashley Hughes,17,Pick Up
+804,804,Angelica Brewer,15,Drop Off
+805,805,John Lewis,10,Pick Up
+806,806,Erin Wright,9,Drop Off
+807,807,Michael May,6,Solo
+808,808,Jennifer Hicks,12,Solo
+809,809,Amy Adams,15,Drop Off
+810,810,Kenneth Medina,16,Solo
+811,811,Kevin Allen,12,Other
+812,812,Kathleen Williams,7,Solo
+813,813,Katherine Mcclure,13,Group
+814,814,Allison Espinoza,14,Food
+815,815,Mark Powell,7,Group
+816,816,Cheryl Bryan,16,Other
+817,817,Jeremiah Fuller,11,Solo
+818,818,Renee Ortega,12,Other
+819,819,Rachel Carter,11,Group
+820,820,Patrick Castro,13,Group
+821,821,Rhonda Miller,7,Solo
+822,822,Jerry Samantha,16,Group
+823,823,Sarah Robinson,14,Solo
+824,824,Phyllis Manning,9,Solo
+825,825,Nicholas Gibson,16,Pick Up
+826,826,Christy Jordan,12,Drop Off
+827,827,Eric Manning,12,Drop Off
+828,828,Brooke Watkins,8,Other
+829,829,Christopher Park,6,Other
+830,830,Bethany Adams,17,Drop Off
+831,831,Amber Ray,5,Other
+832,832,Jacob Caldwell,16,Group
+833,833,Derek Davidson,13,Drop Off
+834,834,Cynthia Jenkins,17,Drop Off
+835,835,Nicholas Nicole,15,Group
+836,836,Julie Blankenship,5,Solo
+837,837,Lucas Whitehead,6,Drop Off
+838,838,Tiffany Moran,18,Solo
+839,839,Christopher Russell,11,Solo
+840,840,Lisa Mccullough,11,Pick Up
+841,841,Denise Roberts,5,Drop Off
+842,842,Martha Torres,7,Food
+843,843,Jeffrey Brown,18,Solo
+844,844,Nathan Powell,16,Food
+845,845,Frank Smith,18,Other
+846,846,Robert Terry,9,Drop Off
+847,847,David Ball,8,Food
+848,848,Eric Bautista,11,Other
+849,849,Anthony Mason,15,Group
+850,850,Donald Brown,15,Other
+851,851,Kelly Mercado,12,Drop Off
+852,852,Scott Mathis,12,Other
+853,853,Christina Fields,16,Other
+854,854,Anna Jordan,10,Solo
+855,855,Rick Burgess,15,Solo
+856,856,Leslie Edwards,11,Food
+857,857,Christopher Russell,6,Food
+858,858,Gail Calderon,10,Food
+859,859,Linda Jacobs,5,Group
+860,860,Jeremiah Houston,17,Other
+861,861,Mark Davis,11,Pick Up
+862,862,Daniel Jenkins,9,Pick Up
+863,863,Kayla Carey,7,Drop Off
+864,864,Cameron Donald,14,Drop Off
+865,865,Brenda Herman,7,Drop Off
+866,866,Tiffany Delgado,17,Solo
+867,867,Thomas Riley,15,Other
+868,868,Lori Ward,8,Food
+869,869,Grant Gomez,11,Drop Off
+870,870,Annette Brown,15,Other
+871,871,Elizabeth Brown,11,Pick Up
+872,872,Jennifer Cole,12,Group
+873,873,Joseph Sanchez,16,Solo
+874,874,Lauren Thomas,6,Solo
+875,875,Philip Collins,5,Solo
+876,876,Heather Armstrong,15,Food
+877,877,Justin Dunn,16,Solo
+878,878,Teresa Clark,10,Other
+879,879,Erin Norris,18,Group
+880,880,Christopher Shepherd,15,Group
+881,881,Robert Wood,11,Group
+882,882,Justin Haynes,18,Food
+883,883,Jessica Carpenter,12,Solo
+884,884,Joshua Lyons,14,Group
+885,885,John Morales,15,Solo
+886,886,Scott Hansen,6,Other
+887,887,Gerald Hall,15,Pick Up
+888,888,Paula Rodriguez,16,Group
+889,889,Javier Carter,12,Pick Up
+890,890,Elizabeth Blackburn,10,Drop Off
+891,891,Sara Walter,16,Food
+892,892,Sarah Walters,17,Other
+893,893,Paul Adams,13,Group
+894,894,Taylor King,13,Pick Up
+895,895,David Fernandez,9,Other
+896,896,Kyle Schmidt,18,Other
+897,897,Cody Cox,13,Food
+898,898,David Sharp,17,Other
+899,899,Sonia Walker,12,Solo
+900,900,Jennifer Rojas,16,Drop Off
+901,901,Elizabeth Crawford,5,Group
+902,902,Ryan Myers,15,Other
+903,903,Randy Hartman,5,Solo
+904,904,Dennis Dean,16,Other
+905,905,Derek Smith,9,Drop Off
+906,906,Annette Everett,11,Food
+907,907,William Jones,10,Group
+908,908,Michael Montgomery,10,Drop Off
+909,909,Alicia Dodson,6,Solo
+910,910,Ashley Zamora,7,Group
+911,911,Tracy Murphy,18,Solo
+912,912,Allison Pruitt,12,Pick Up
+913,913,Joshua Chavez,6,Group
+914,914,Susan Scott,16,Drop Off
+915,915,Judy Moreno,8,Pick Up
+916,916,Sara Mcneil,10,Other
+917,917,Amber Drake,10,Pick Up
+918,918,Alfred Smith,10,Other
+919,919,Michael Robinson,5,Food
+920,920,Misty Cooper,10,Other
+921,921,Melissa Dunn,16,Pick Up
+922,922,Sara Mitchell,11,Food
+923,923,Lisa Boyd,12,Drop Off
+924,924,Gregory Cervantes,8,Drop Off
+925,925,Michael Price,6,Solo
+926,926,Jason Choi,9,Food
+927,927,Kathryn Davis,13,Group
+928,928,Michael Marshall,7,Pick Up
+929,929,Devon Barrera,9,Other
+930,930,Lori Zimmerman,14,Food
+931,931,Shane Newton,6,Solo
+932,932,Lucas Donovan,7,Other
+933,933,Matthew Thornton,5,Food
+934,934,William Carr,12,Other
+935,935,Darrell Ford,12,Pick Up
+936,936,Douglas Hill,12,Solo
+937,937,Brian Rios,13,Group
+938,938,John Amy,9,Drop Off
+939,939,Robert Knight,18,Drop Off
+940,940,Michael Moss,17,Pick Up
+941,941,Emily Conway,7,Pick Up
+942,942,Marc Baker,9,Other
+943,943,Stephen Barker,8,Drop Off
+944,944,Caitlin Hill,12,Other
+945,945,John Wallace,16,Drop Off
+946,946,Randy Garcia,18,Solo
+947,947,Robert Berg,13,Group
+948,948,Monica Diaz,13,Other
+949,949,Miguel Fisher,7,Group
+950,950,Jordan Mitchell,15,Food
+951,951,Allison Cain,6,Pick Up
+952,952,Jennifer Adams,15,Other
+953,953,Nathan Cross,9,Other
+954,954,Kevin Dickerson,12,Group
+955,955,Holly Jefferson,14,Solo
+956,956,Karen Ball,16,Group
+957,957,Jennifer Espinoza,10,Drop Off
+958,958,Matthew Brown,17,Drop Off
+959,959,Kristen Osborne,13,Food
+960,960,Patricia Rodriguez,12,Drop Off
+961,961,Scott Norman,13,Solo
+962,962,Teresa Beltran,8,Drop Off
+963,963,Albert Rodriguez,9,Drop Off
+964,964,Jason Martin,5,Solo
+965,965,Scott Martin,16,Solo
+966,966,Steven Young,15,Other
+967,967,Cheryl Kim,10,Pick Up
+968,968,John Martin,10,Drop Off
+969,969,Patricia Foster,13,Pick Up
+970,970,Lindsay Green,8,Pick Up
+971,971,James Lambert,9,Food
+972,972,Nicole Murray,7,Solo
+973,973,Audrey Cruz,8,Solo
+974,974,Aaron Bruce,11,Drop Off
+975,975,Christopher Foley,7,Food
+976,976,Morgan Williams,18,Other
+977,977,Joy Trujillo,14,Drop Off
+978,978,Raymond Miller,12,Solo
+979,979,Cassandra Wheeler,16,Group
+980,980,Samuel Jones,17,Solo
+981,981,Jennifer Contreras,18,Group
+982,982,Ronald Julia,16,Drop Off
+983,983,Alicia Cummings,6,Drop Off
+984,984,Samuel Hansen,14,Group
+985,985,David Jones,5,Other
+986,986,Joshua Marquez,7,Solo
+987,987,Michael Bender,12,Pick Up
+988,988,Gregory Lee,13,Solo
+989,989,Ariel Lewis,13,Food
+990,990,Vanessa Hill,14,Drop Off
+991,991,Mary Martinez,18,Other
+992,992,Javier Hall,8,Other
+993,993,Whitney Mayo,15,Pick Up
+994,994,Vanessa Perkins,5,Pick Up
+995,995,Heather Miller,18,Group
+996,996,Brittany Trujillo,12,Drop Off
+997,997,Robert Moore,14,Group
+998,998,Sara Martinez,13,Other
+999,999,Richard Hamilton,14,Pick Up
