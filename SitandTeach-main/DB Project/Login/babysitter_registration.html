@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Babysitter Registration</title>
+    <link href="../Style/style-sitter.css" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <div id="box">
+        <form method="post" action="babysitter-registration.php" enctype="multipart/form-data">
+            <h1>Babysitter Registration</h1>
+            <div id="input">
+                <input type="text" name="babysittername" placeholder="Your First Name" required>
+                <i class="bx bx-user"></i>
+            </div>
+            <div id="input">
+                <input type="number" name="babysitterage" placeholder="Age (16 Minimum)" min="16" step="1" required>
+                <i class="bx bx-user"></i>
+            </div>
+            <div id="input">
+                <input type="number" name="cost" placeholder="Hourly Rate" step="0.01" required>
+                <i class="bx bx-user"></i>
+            </div>
+            <div id="input">
+                <input type="number" name="rating" placeholder="Rating" step="0.01" required>
+                <i class="bx bx-user"></i>
+            </div>
+            <div id="input">
+                <input type="number" name="attendance" placeholder="Attendance (in %)" step="0.01" required>
+                <i class="bx bx-user"></i>
+            </div>
+            <div id="input">
+                <input type="text" name="username" placeholder="Username" required>
+                <i class='bx bx-user'></i>
+            </div>
+            <div id="input">
+                <input type="password" name="password" placeholder="Password" required>
+                <i class='bx bx-lock-open-alt'></i>
+            </div>
+            <div id="input">
+                <input type="file" name="fileToUpload" accept=".pdf" required>
+                <i class='bx bxs-file-pdf'></i>
+            </div>
+            <div id="submit">
+                <button type="submit" id="button">Register</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

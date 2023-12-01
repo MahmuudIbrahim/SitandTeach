@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #e1ad01;
+}
+
+#header{
+    text-align: center;
+    margin-top: 150px;
+    font-family: sans-serif;
+    color: #009879;;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+#button{
+    display: flex;
+    gap: 16px;
+}
+
+#yes{
+    border: 2px solid rgb(13, 36, 78);
+    border-radius: 20px;
+    border-width: 2px;
+    width: 200px;
+    height: 40px;
+    background-color: #009879;
+    color: #e1ad01;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 750px;
+}
+
+#yes:hover{
+    background-color: navy;
+    transform: scale(1.1);
+    transition: .3s;
+}
+
+#yes:active{
+    background-color: #000;
+}
+
+#no{
+    border: 2px solid rgb(13, 36, 78);
+    border-radius: 20px;
+    border-width: 2px;
+    width: 200px;
+    height: 40px;
+    background-color: #009879;
+    color: #e1ad01;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#no:hover{
+    background-color: navy;
+    transform: scale(1.1);
+    transition: .3s;
+}
+
+#no:active{
+    background-color: #000;
+}
+
+#return{
+    display: inline-block;
+    margin-top: 450px;
+    margin-left: 90%;
+    border: 2px solid rgb(13, 36, 78);
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #009879;
+    color: #e1ad01;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#return:hover{
+   transform: scale(1.1);
+   transition: .3s;
+   cursor: pointer;
+   color: yellow;
+   background-color: navy;
+}
+
+#return:active{
+   background-color: #000;
+}

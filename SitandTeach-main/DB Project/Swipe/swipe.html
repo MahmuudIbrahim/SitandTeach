@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Swipe page</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+        
+        <!-- Link Swiper's CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+        
+
+        <link href="../Style/swipe-style.css" rel="stylesheet">
+    </head>
+    <body>
+        <section class="swiper mySwiper">
+
+            <div class="swiper-wrapper">
+
+            
+            <div class="card swiper-slide">
+                <div class="card-image">
+                    <img src="../Resources/headshot.jpg" alt="card image">
+                </div>
+
+                <div class="card-content">
+                    <span class="card-title">Babysitter</span>
+                    <span class="card-name"> Patricia</span>
+                    <p class="card-text">Patricia is a great candidate to tutor and care for your children.</p>
+                    <form action="../Swipe/Patricia.html">
+                        <button class="card-btn" onclick="">View more</button>
+                    </form>
+                </div>
+            </div>
+            <div class="card swiper-slide">
+                <div class="card-image">
+                    <img src="../Resources/Headshots-202102181269-640x800.jpg" alt="card image">
+                </div>
+
+                <div class="card-content">
+                    <span class="card-title">Babysitter</span>
+                    <span class="card-name"> Jonathan</span>
+                    <p class="card-text">A great caregiver, Jonathan has plenty of previous experience for any specificities you may need.</p>
+                    <form action="../Swipe/Jonathan.html">
+                        <button class="card-btn" onclick="">View more</button>
+                    </form>
+                </div>
+            </div>
+            <div class="card swiper-slide">
+                <div class="card-image">
+                    <img src="../Resources/benjamin.jpg" alt="card image">
+                </div>
+
+                <div class="card-content">
+                    <span class="card-title">Babysitter</span>
+                    <span class="card-name"> Benjamin</span>
+                    <p class="card-text">Benjamin is a new Babysitter at Sit And Teach, but rest assured that his training prepared him for any need.</p>
+                    <form action="../Swipe/Benjamin.html">
+                        <button class="card-btn" onclick="">View more</button>
+                    </form>
+                </div>
+            </div>
+            <div class="card swiper-slide">
+                <div class="card-image">
+                    <img src="../Resources/heather.jpg" alt="card image">
+                </div>
+
+                <div class="card-content">
+                    <span class="card-title">Babysitter</span>
+                    <span class="card-name"> Heather</span>
+                    <p class="card-text">Our senior Babysitter, Heather is an ideal candidate.</p>
+                    <form action="../Swipe/Heather.html">
+                        <button class="card-btn" onclick="">View more</button>
+                    </form>
+                </div>
+            </div>
+            <div class="card swiper-slide">
+                <div class="card-image">
+                    <img src="../Resources/brandy.jpg" alt="card image">
+                </div>
+
+                <div class="card-content">
+                    <span class="card-title">Babysitter</span>
+                    <span class="card-name"> Brandy</span>
+                    <p class="card-text">A future K-5 educator, Brandy is learning firsthand experience and is an ideal candidate.</p>
+                    <form action="../Swipe/Brandy.html">
+                        <button class="card-btn" onclick="">View more</button>
+                    </form>
+                </div>
+            </div>
+
+            </div>
+
+            
+
+        </div>
+        </section>
+        <div id="button">
+            <form action="../Index/Home.html">
+                <input type="submit" value="Return" id="return-home">
+            </form>
+
+        <!-- Swiper JS -->
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+        <!-- Initialize Swiper -->
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+        effect: "coverflow",
+        grabCursor: true,
+        centeredSlides: true,
+        slidesPerView: "auto",
+        coverflowEffect: {
+        rotate: 0,
+        stretch: 0,
+        depth: 300,
+        modifier: 1,
+        slideShadows: false,
+      },
+      pagination: {
+        el: ".swiper-pagination",
+      },
+    });
+  </script>
+        
+    </body>
+</html>

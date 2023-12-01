@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Login</title>
+        <link href="../Style/style-parent.css" rel="stylesheet">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    </head>
+    <body>
+        <div id="box">
+            <form method="post" action="login.php">
+                <h1>Login</h1>
+                <div id="input">
+                    <input type="text" name="username" placeholder="username" required>
+                    <i class='bx bx-user'></i>            
+                </div>
+                <div id="input">
+                    <input type="password" name="password" placeholder="password" required>
+                    <i class='bx bx-lock-open-alt'></i>
+                </div>
+                <div id="remember">
+                    <label for="remember" >
+                    <input type="checkbox" name="remember">Remember me</label>
+                </div>
+                <div id="submit">
+                    <button type="submit" id="button">Login</button>
+                </div>
+                <div id="register">
+                    <p>Do not have an account? <a href="../Login/Registration.html">Register here!</a></p>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
